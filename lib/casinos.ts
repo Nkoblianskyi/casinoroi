@@ -14,7 +14,7 @@ export const casinos: Casino[] = [
     name: "Casino Portugal",
     logo: "/brand-ccasino.svg",
     rating: 9.8,
-    bonus: "Aposta Grátis de 2€ Atualmente",
+    bonus: "20 Jogadas Grátis",
     isTopChoice: true,
     url: "https://www.casinoportugal.pt/",
   },
@@ -23,7 +23,7 @@ export const casinos: Casino[] = [
     name: "Lebull",
     logo: "/lebull.svg",
     rating: 9.7,
-    bonus: "250% até 400€ + 50€ de Aposta Grátis",
+    bonus: "25 FreeSpins no Registo",
     url: "https://www.lebull.pt/",
   },
   {
@@ -31,7 +31,7 @@ export const casinos: Casino[] = [
     name: "Betclic",
     logo: "/betclic.svg",
     rating: 9.4,
-    bonus: "100% Até 20€",
+    bonus: "Deposita 10€ e joga com 50€",
     url: "https://www.betclic.pt/",
   },
   {
@@ -39,7 +39,7 @@ export const casinos: Casino[] = [
     name: "Solverde",
     logo: "/solverde.svg",
     rating: 9.2,
-    bonus: "300% até 30€ em Aposta Grátis",
+    bonus: "100% Até 20€",
     url: "https://www.solverde.pt/",
   },
   {
@@ -47,7 +47,7 @@ export const casinos: Casino[] = [
     name: "Luckia",
     logo: "/luckia.svg",
     rating: 9.0,
-    bonus: "Aposta Grátis de Atualmente",
+    bonus: "5€ Registo + Até 500€ Bónus",
     url: "https://www.luckia.pt/",
   },
 ]
