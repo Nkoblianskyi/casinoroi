@@ -14,7 +14,7 @@ export function Header() {
             <Crown className="h-8 w-8 text-yellow-500" />
             <span className="text-2xl font-bold">
               <span className="text-green-500">Casino</span>
-              <span className="text-red-500">Rei</span>
+              <span className="text-red-500">Portugal</span>
             </span>
           </Link>
 

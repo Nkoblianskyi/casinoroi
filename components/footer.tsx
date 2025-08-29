@@ -11,7 +11,7 @@ export function Footer() {
             <div className="flex items-center space-x-2 mb-4">
               <Crown className="h-8 w-8 text-yellow-500" />
               <span className="text-2xl font-bold bg-gradient-to-r from-yellow-400 to-yellow-600 bg-clip-text text-transparent">
-                CasinoRei
+                CasinoPortugal
               </span>
             </div>
             <p className="text-gray-400 mb-6">
@@ -115,7 +115,7 @@ export function Footer() {
             Este site contém links de afiliados. Podemos receber comissões quando clica nestes links. Isto não afeta as
             nossas análises ou rankings.
           </p>
-          <p>@ 2025 CasinoRei - Todos os direitos reservados</p>
+          <p>@ 2025 CasinoPortugal - Todos os direitos reservados</p>
         </div>
       </div>
     </footer>
