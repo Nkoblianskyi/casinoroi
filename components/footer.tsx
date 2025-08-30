@@ -10,16 +10,16 @@ export function Footer() {
           <div className="md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <Crown className="h-8 w-8 text-yellow-500" />
-              <span className="text-2xl font-bold bg-gradient-to-r from-yellow-400 to-yellow-600 bg-clip-text text-transparent">
-                CasinoPortugal
-              </span>
+              <span className="text-green-500">SitesDe</span>
+              <span className="text-white">Casinos</span>
+              <span className="text-red-500">Portugal</span>
             </div>
             <p className="text-gray-400 mb-6">
               O seu guia confiável para os melhores casinos online licenciados em Portugal. Análises imparciais, bónus
               exclusivos e informação atualizada.
             </p>
             <div className="text-sm text-gray-500">
-              
+
               <p className="mt-2">Jogue com responsabilidade. +18 anos.</p>
             </div>
           </div>
@@ -43,7 +43,7 @@ export function Footer() {
                   FAQ
                 </a>
               </li>
-              
+
             </ul>
           </div>
 
@@ -61,13 +61,13 @@ export function Footer() {
                   Política de Cookies
                 </Link>
               </li>
-              
+
               <li>
-                
+
               </li>
-              
+
               <li>
-                
+
               </li>
             </ul>
           </div>
@@ -115,7 +115,7 @@ export function Footer() {
             Este site contém links de afiliados. Podemos receber comissões quando clica nestes links. Isto não afeta as
             nossas análises ou rankings.
           </p>
-          <p>@ 2025 CasinoPortugal - Todos os direitos reservados</p>
+          <p>@ 2025 SitesDeCasinosPortugal.com - Todos os direitos reservados</p>
         </div>
       </div>
     </footer>
