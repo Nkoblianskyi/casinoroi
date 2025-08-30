@@ -10,7 +10,6 @@ export const metadata: Metadata = {
   title: "CasinoRei - Os Melhores Casinos Online de Portugal",
   description:
     "Descubra os melhores casinos online licenciados em Portugal. Rankings, bónus e análises detalhadas dos casinos portugueses mais confiáveis.",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
